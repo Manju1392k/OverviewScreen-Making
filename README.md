@@ -59,3 +59,16 @@ https://user-images.githubusercontent.com/66934377/170016033-e71bfae8-9974-4459-
 
 * ### you can add skills icons to overview screen with profileme.dev 
 * ### you can also download the png's and jpg's Languages or Framework icons from the Google.
+* ### As Your Whish.
+
+---
+
+# Social Media links
+
+![Screenshot (196)](https://user-images.githubusercontent.com/66934377/170022901-ccba6eca-645a-4052-96be-bf9a5af90fd7.png)
+
+* ### You Can add Social media links like twiiter, facebook, stackoverflow etc..
+
+---
+
+# 
