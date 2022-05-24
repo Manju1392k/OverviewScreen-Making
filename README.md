@@ -71,4 +71,23 @@ https://user-images.githubusercontent.com/66934377/170016033-e71bfae8-9974-4459-
 
 ---
 
-# 
+# Badges
+
+## Stat Card
+
+![Screenshot (198)](https://user-images.githubusercontent.com/66934377/170023249-4483224a-c295-401d-82af-3c0365ab9441.png)
+
+* ### You can add Stat Card.
+* ### You can modify the colors by using STYLE BADGES
+
+---
+
+
+## Stat Card
+
+![Screenshot (197)](https://user-images.githubusercontent.com/66934377/170023735-8f9cf242-0b6b-4337-81ec-894b887ce178.png)
+
+
+* ### Modified Stat Card
+
+---
