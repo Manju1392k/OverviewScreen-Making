@@ -87,7 +87,44 @@ https://user-images.githubusercontent.com/66934377/170016033-e71bfae8-9974-4459-
 
 ![Screenshot (197)](https://user-images.githubusercontent.com/66934377/170023735-8f9cf242-0b6b-4337-81ec-894b887ce178.png)
 
-
 * ### Modified Stat Card
 
 ---
+
+## Commit Streak
+
+![Screenshot (199)](https://user-images.githubusercontent.com/66934377/170024030-ff29683d-752f-4c3b-aec8-e42033696c64.png)
+
+* ### You can add Commit Streak.
+* ### You can modify the colors by using STYLE BADGES
+
+---
+
+
+## Top Language's
+
+![Screenshot (201)](https://user-images.githubusercontent.com/66934377/170024411-30abe8f7-caec-40e8-8407-dce016c8b85a.png)
+
+* ### You can add Top Language's.
+* ### You can modify the colors by using STYLE BADGES
+
+---
+
+## Follower count
+
+![Screenshot (200)](https://user-images.githubusercontent.com/66934377/170024615-e5ed2ab1-aae7-45dc-a749-42c0faa593e7.png)
+
+* ### You can add Follower Count.
+* ### You can modify the colors by using STYLE BADGES
+
+---
+
+### Final
+
+* ### There are many website's for making overview Screen's. But I like the Profileme.dev Website. 
+* ### You Can Make your Overview Screen with any Website as Your Whish.
+* ### You Can add More Things.
+
+
+
+
