@@ -27,4 +27,10 @@ https://user-images.githubusercontent.com/66934377/170016033-e71bfae8-9974-4459-
 
 ![UsernameRepo](https://user-images.githubusercontent.com/66934377/170018537-ce3ac797-83a0-4a61-84a9-927faca7b9db.png)
 
-* ### Now click 
+* ### Now click On Create Repositoy
+* ### Finally One Thing Keep in your mind username repository must should be in the Public. If you keep in Private your overview screen not appear
+
+---
+
+* ### After Creating repository with username. Now Refresh your page and goto the overview screen you will notice some change's.
+* ### The Special Repositoy come with template which is not good. You Can modifiy as your whish.
